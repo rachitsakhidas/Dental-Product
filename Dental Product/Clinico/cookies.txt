@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clinico.creaws.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	15%7C22%7C50%7C70%7C76%7C73%7C60%7C1639%7C93%7C1637%7C67%7C83%7C87%7C79%7C1636
+clinico.creaws.com	TRUE	/	FALSE	1999999999	_icl_current_language	en
+clinico.creaws.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+clinico.creaws.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	da3a8d0b6a34dfb320a3d9c216074f15
+clinico.creaws.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_3031dfdea52493363992400af5d84bc8	fa3fb671baff9cd2717ee488a4d422e6%7C%7C1438324503%7C%7C1438320903%7C%7C6d4113c39e82df8edb4b5539d043add1
+

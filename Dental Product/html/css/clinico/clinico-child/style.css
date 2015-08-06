@@ -1,0 +1,26 @@
+/*
+Theme Name: Clinico - Child theme
+Description: Premium Medical and Health WordPress Theme. 
+Theme URI: http://clinico.creaws.com/
+Author: Creative Web Solutions
+Template: clinico
+Version: 1.5.7
+Author URI: http://themeforest.net/user/creativews
+Tags: clean, clinic, dentist, doctor, health, healthcare, hospital, medic, medical, medicine, responsive, timetable, wellness, corporate, Events calendar, flat
+Text Domain: clinico
+*/ 
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+@import url("tuner/css/styles.css");
+
+body.boxed {
+	background-image: url("tuner/slides/1.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
